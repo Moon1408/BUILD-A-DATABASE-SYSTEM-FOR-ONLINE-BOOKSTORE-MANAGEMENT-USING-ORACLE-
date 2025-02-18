@@ -74,3 +74,6 @@ B4: Thiết kế và cài đặt hệ thống
    + Toàn vẹn Dữ liệu: Nhận thức được tầm quan trọng của các ràng buộc toàn vẹn và cách sử dụng Trigger để bảo vệ dữ liệu.
      
    + Quản lý Giao dịch: Nắm bắt quy trình quản lý giao dịch, đảm bảo tính nhất quán và an toàn cho dữ liệu trong hệ thống.
+
+Liên hệ:
+email: nhitran14008@gmail.com
