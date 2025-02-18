@@ -20,15 +20,15 @@ B3: Phân tích hệ thống
 
    B3.1: Phân tích chức năng 
 
-      B3.1.1: Thiết kế mô hình phân cấp chức năng của hệ thống (sơ đồ BFD)
+      + Thiết kế mô hình phân cấp chức năng của hệ thống (sơ đồ BFD)
     
-      B3.1.2: Mô tả chi tiết từng chức năng và các quy định nghiệp vụ/các ràng buộc toàn vẹn dữ liệu có liên quan
+      + Mô tả chi tiết từng chức năng và các quy định nghiệp vụ/các ràng buộc toàn vẹn dữ liệu có liên quan
     
   B3.2: Phân tích dữ liệu 
   
-      B3.2.1: Mô hình thực thể kết hợp (ERD)
+      + Mô hình thực thể kết hợp (ERD)
    
-      B3.2.2: Thiết kế các sơ đồ luồng dữ liệu (DFD)
+      + Thiết kế các sơ đồ luồng dữ liệu (DFD)
    
 B4: Thiết kế và cài đặt hệ thống 
 
