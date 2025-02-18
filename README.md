@@ -1,4 +1,4 @@
-# BUILD-A-DATABASE-SYSTEM-FOR-ONLINE-BOOKSTORE-MANAGEMENT-USING-ORACLE-
+# XÂY DỰNG HỆ THỐNG CSDL QUẢN LÝ NHÀ SÁCH ONLINE BẰNG ORACLE
 **1. Giới thiệu về dự án:**
 - Hệ thống quản lý nhà sách là một giải pháp công nghệ được thiết kế để hỗ trợ và tối ưu hóa các nghiệp vụ doanh nghiệp trong lĩnh vực bán lẻ sách. Các chức năng chính bao gồm quản lý hàng tồn kho, quản lý sách, quản lý đơn hàng, theo dõi doanh thu, và quản lý thông tin khách hàng... Phát triển Hệ thống quản lý nhà sách giúp đảm bảo dữ liệu thống nhất, dễ dàng truy cập và hoạt động hiệu quả.
 
