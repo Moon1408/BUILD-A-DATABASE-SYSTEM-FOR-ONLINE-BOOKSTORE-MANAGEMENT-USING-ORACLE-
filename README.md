@@ -60,7 +60,7 @@ B4: Thiết kế và cài đặt hệ thống
 
    B4.4: Thiết kế và cài đặt các giao tác (Transaction)
 
-**6. Kết luận:**
+**5. Kết luận:**
 - Dự án này đã giúp tôi rèn luyện về: 
 
    + Cấu trúc Hệ thống: Hiểu cách thức hoạt động và tổ chức của hệ thống, từ quy trình nghiệp vụ đến sơ đồ tổ chức.
