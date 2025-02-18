@@ -6,9 +6,13 @@
 **3. Công cụ:** Oracle Database, StarUML  
 
 **4. Các bước thực hiện:**
+
 B1: Thiết kế quy trình hoạt động nghiệp vụ 
+
 B2: Thiết kế sơ đồ cơ cấu tổ chức của doanh nghiệp
+
 B3: Phân tích hệ thống 
+
    B3.1: Phân tích chức năng 
     B3.1.1: Thiết kế mô hình phân cấp chức năng của hệ thống (sơ đồ BFD)
     B3.1.2: Mô tả chi tiết từng chức năng và các quy định nghiệp vụ/các ràng buộc toàn vẹn dữ liệu có liên quan
